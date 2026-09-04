@@ -1,0 +1,59 @@
+about:
+  description: gitv is a terminal-based viewer for GitHub issues. It allows you to view and manage your GitHub issues directly from the terminal.
+  license: Unlicense
+  homepage: https://crates.io/crates/gitv-tui
+  head: dee06b1
+  archived: false
+  latestVersion: gitv-tui-v0.4.5
+  collectedAt: 2026-09-04T04:23:46Z
+timeline:
+  created: 2026-02-09
+  lastCommit: 2026-06-28
+  lastRelease: 2026-06-28
+popularity:
+  star: 116
+  watcher: 1
+  fork: 5
+  release: 22
+  contributor: 2
+  pullRequest: 59
+  issue: 16
+language:
+  Rust: 439974
+  Nix: 1811
+  Python: 839
+  Shell: 363
+totalLine: 442987
+recent:
+  last30d:
+    since: 2026-08-05
+    release: 0
+    mergedPR: 0
+    openPR: 2
+    closedIssue: 0
+    openIssue: 1
+    commit: 0
+  last90d:
+    since: 2026-06-06
+    release: 5
+    mergedPR: 3
+    openPR: 9
+    closedIssue: 0
+    openIssue: 1
+    commit: 9
+  last180d:
+    since: 2026-03-08
+    release: 12
+    mergedPR: 33
+    openPR: 9
+    closedIssue: 3
+    openIssue: 2
+    commit: 69
+  last360d:
+    since: 2025-09-09
+    release: 22
+    mergedPR: 102
+    openPR: 9
+    closedIssue: 13
+    openIssue: 3
+    commit: 210
