@@ -48,12 +48,12 @@ Total: **11,748** lines of code across **62** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-26 | 0 | 0 | 2 | 0 | 0 | 0 |
-| last60d | 2026-07-27 | 0 | 0 | 3 | 0 | 1 | 0 |
-| 90d | 2026-06-27 | 5 | 3 | 9 | 0 | 1 | 0 |
-| last180d | 2026-03-29 | 8 | 14 | 9 | 2 | 2 | 44 |
-| 360d | 2025-09-30 | 22 | 102 | 9 | 13 | 3 | 210 |
-| last720d | 2024-10-05 | 22 | 102 | 9 | 13 | 3 | 237 |
+| 30d | 2026-08-27 | 0 | 0 | 2 | 0 | 0 | 0 |
+| last60d | 2026-07-28 | 0 | 0 | 2 | 0 | 1 | 0 |
+| 90d | 2026-06-28 | 5 | 0 | 9 | 0 | 1 | 0 |
+| last180d | 2026-03-30 | 8 | 14 | 9 | 1 | 2 | 44 |
+| 360d | 2025-10-01 | 22 | 102 | 9 | 13 | 3 | 210 |
+| last720d | 2024-10-06 | 22 | 102 | 9 | 13 | 3 | 237 |
 
 ## Release assets
 
@@ -78,4 +78,4 @@ Install metadata for gitv lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260925.yml` · 2026-09-25T06:12:43Z._
+_Snapshot: `data/card/260926.yml` · 2026-09-26T06:10:52Z._
