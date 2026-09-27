@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 3802938,
       "digest": "sha256:c86f06a3f13756e74b338061578e9644014c9c562a80699ee0cb3b6423279ef9",
-      "download_count": 15,
+      "download_count": 16,
       "created_at": "2026-06-28T08:32:00Z",
       "updated_at": "2026-06-28T08:32:01Z",
       "browser_download_url": "https://github.com/JayanAXHF/gitv/releases/download/gitv-tui-v0.4.5/gitv-x86_64-unknown-linux-gnu.tar.gz"
