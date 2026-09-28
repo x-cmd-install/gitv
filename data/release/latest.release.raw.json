@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 3245657,
       "digest": "sha256:93345d4ffb148ecfe4134bf40beb2d632169b59ab9ad729cf9d79cf9ecda0bda",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-06-28T08:32:19Z",
       "updated_at": "2026-06-28T08:32:20Z",
       "browser_download_url": "https://github.com/JayanAXHF/gitv/releases/download/gitv-tui-v0.4.5/gitv-aarch64-apple-darwin.tar.gz"
